@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "user_name"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Greet this person in five languages, one of which should be Urdu. The name of the person is {user_name}",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
